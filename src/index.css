@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Mono&family=Montserrat:wght@400;500;700;800&family=Roboto:wght@100;300;400;500;700&family=Source+Sans+3:wght@400;600;700&display=swap");
+
+html,
+body,
+#root {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #031d44;
+}
